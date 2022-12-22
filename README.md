@@ -1,4 +1,4 @@
-To see the project on live (https://radiant-licorice-f6cd67.netlify.app)
+To see the project on live [Click](https://radiant-licorice-f6cd67.netlify.app)
 
 # Getting Started with Create React App
 
